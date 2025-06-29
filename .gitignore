@@ -1,28 +1,4 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
-*$py.class
-
-# Pytest cache
 .pytest_cache/
-
-# Flask default logs and instance files
-instance/
-*.log
-
-# Environment variables and settings
+*.pyc
 .env
-.env.*
-
-# MacOS and Windows system files
-.DS_Store
-Thumbs.db
-
-# VS Code settings (if applicable)
-.vscode/
-
-# Ignore virtual environments
-venv/
-env/
-
-# Ignore events.json if it's generated and you don’t want to track it
-# events.json

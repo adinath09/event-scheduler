@@ -1,0 +1,9 @@
+[
+    {
+        "id": "03d09288-46c6-4d90-b17c-dbd9ffe69975",
+        "title": "Test Event",
+        "description": "Test Desc",
+        "start_time": "2025-07-01T10:00:00",
+        "end_time": "2025-07-01T11:00:00"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "4b18fedf-5daf-41dc-92bc-febc21ed6046",
+        "title": "update demo",
+        "description": "Test Event 2",
+        "start_time": "2025-07-01T14:00:00",
+        "end_time": "2025-07-01T15:00:00"
+    },
+    {
+        "id": "87bf6357-e0fb-4e6a-9941-86bf15eceac8",
+        "title": "Staff",
+        "description": "Staff Meeting",
+        "start_time": "2025-07-01T12:00:00",
+        "end_time": "2025-07-01T15:00:00"
+    }
+]
